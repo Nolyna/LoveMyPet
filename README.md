@@ -7,3 +7,6 @@ Our mission is to connect pet lovers and pet owners, giving the possibility to p
 
 See Prototype:
 https://app.atomic.io/d/JZdW7CyJwMwr
+
+Team : #PL
+Member: Justyce Martin-Joyner, Richard Baird ,Noria Soumbou
